@@ -1,0 +1,29 @@
+.container {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.photo {
+	flex: 100%;
+	text-align: center;
+}
+
+.photo img {
+	width: 400px;
+	height: 200px;
+}
+
+.video {
+	flex: 100%;
+	text-align: center;
+}
+
+.video video {
+	width: 400px;
+	height: 200px;
+}
+
+.audio {
+	flex: 100%;
+	text-align: center;
+}
